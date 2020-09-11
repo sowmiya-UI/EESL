@@ -1,0 +1,39 @@
+#full-pg{
+    background-image: linear-gradient(to bottom,#fdffe8 30%,#f7ffb4 70%);
+}
+.border-right{
+    border:1px solid red !important;
+}
+hr{
+    border:1px solid red !important;
+}
+#last-content{
+    background-color:red;
+}
+#icons{
+    color:white;
+}
+#icon-text{
+    color:white;
+}
+p{
+    font-weight: 500;
+}
+h4{
+    font-weight: 500;
+}
+li{
+    font-weight: 500;
+}
+@media(min-width:750px){
+#award{
+width:280px;
+height:775px;
+}
+}
+@media(min-width:1250px){
+    #award{
+    width:330px;
+    height:675px;
+    }
+    }
